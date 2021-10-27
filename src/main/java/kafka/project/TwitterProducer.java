@@ -29,10 +29,6 @@ public class TwitterProducer {
     List<String> terms = Lists.newArrayList("bolsonaro", "lula", "vacina");
 
 
-    String consumerKey = "AQAXhcTCdvEOQCxtJkYe6ibvP";
-    String consumerSecret = "AWOTbrohaGaczkqUHAXXZmOv1BkcJ21ALgDZdOmw9zgKjpPBf3";
-    String token = "82890569-tDkt429SgtYM6V6C0oXeeIwlnORKq1cyCdKtODfrp";
-    String secret = "LGCCdTmgDeLuu45git8oQSK2LJhKAHpEQEfi1Vvrq1pxp";
 
     public TwitterProducer() {
     }
